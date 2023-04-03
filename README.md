@@ -1,5 +1,5 @@
 # CartoonFaceGeneration
-You can finish the cartoon face generation task and see the results of comparative experiments through the following link: https://colab.research.google.com/drive/1cHgjtI5BYWlYIUDiDMcmEAQgxRQt1OdL#scrollTo=zS9sjPRGsvzc
+You can finish the cartoon face generation task and see the results of comparative experiments through the following link: https://colab.research.google.com/drive/1qr2o6HSUg-yuu8kWh1RZoDC6sL5_JHFr#scrollTo=4LK4iW1ct-b6
 
 When you get generated cartoon face images from steps above, you can realize text-guided image manipulation through the following link: 
 https://replicate.com/orpatashnik/styleclip
